@@ -81,6 +81,7 @@ Join us on IRC at `#popcorntime` on freenode ([web access](http://webchat.freeno
 
 ### Error about missing libudev.so.0
 Search for libudev.so.0 on your distribution. Most of the time it can be easily fixed by creating a symbolic link from libudev.so to libudev.so.0
+
 See: http://askubuntu.com/questions/288821/how-do-i-resolve-a-cannot-open-shared-object-file-libudev-so-0-error
 
 ### Error "Gtk-WARNING **: cannot open display:"
